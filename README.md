@@ -11,7 +11,7 @@ This is a meta repository that contains links to externally hosted libraries.
 | 3. | QCAP         | https://github.com/QCT-UEA-management/QCAP                 | https://munich-quantum-software-stack.github.io/MQSS-Interfaces/ |
 | 4. | qc2          | https://github.com/qc2nl/qc2                               | https://qc2.readthedocs.io/en/latest/                            |
 | 5. | QQuantLib    | https://github.com/NEASQC/FinancialApplications            | https://neasqc.github.io/FinancialApplications/dl.html           |
-| 6. | wntr_quantum | https://github.com/quantumapplicationlab/wntr-quantum      | N/A (??)                                                         |
+| 6. | wntr_quantum | https://github.com/Quantum4WaterDistribution/wntr-quantum  | https://quantum4waterdistribution.github.io/wntr-quantum/                                                        |
 | 7. | qsvm4eo      | https://github.com.mcas.ms/ICHEC/qsvm4eo                   | N/A (??)                                                         |
 
 ## QSE
